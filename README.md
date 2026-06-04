@@ -76,8 +76,11 @@
 📌 Currently
 
 • 🔭 I'm currently working on Si-eRTe — School Information System for managing school administration
+
 • 🌱 I'm currently learning GoFiber, GORM, SpringBoot, NextJS
+
 • 💬 Ask me about Golang, Backend Architecture, AI Integration
+
 • ⚡ Fun fact: I think I am funny 😄
 
 ───
@@ -87,7 +90,9 @@
 I'm open for freelance projects! Let's build something amazing together. 🚀
 
 • 📧 Email: bayu190903@gmail.com
+
 • 🌐 Portfolio: https://bayu-yusuf.vercel.app/
+
 • 💬 LinkedIn: [linkedin.com/in/muhamad yusuf](https://www.linkedin.com/in/muhamad-yusuf-a8613b214/)
 
 ───
