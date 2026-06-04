@@ -7,17 +7,26 @@
 
 <p align="left"> <a href="https://twitter.com/@bayuyusuf1909" target="blank"><img src="https://img.shields.io/twitter/follow/@bayuyusuf1909?logo=twitter&style=for-the-badge" alt="@bayuyusuf1909" /></a> </p>
 
-- 🔭 I’m currently working on [Si-eRTe](https://github.com/mrbayss/Si-eRTe)
+## 🚀 What I Do
 
-- 🌱 I’m currently learning **GoFiber, GORM, SpringBoot, NextJS**
+- ⚙️ **Backend Development** — REST API, Microservices (Golang, Spring Boot, Node.js, Laravel)
+- 🤖 **AI Integration** — Machine Learning, AI-powered features
+- 🌐 **Web Development** — Full-stack web apps (Next.js, React, TypeScript)
+- 🛠️ **DevOps Basics** — Docker, Nginx, Deployment
 
-- 👨‍💻 All of my projects are available at [https://github.com/mrbayss?tab=repositories](https://github.com/mrbayss?tab=repositories)
+## 🔥 Featured Projects
 
-- 💬 Ask me about **Golang**
+- [Si-eRTe](https://github.com/mrbayss/Si-eRTe) — [System Information for School]
 
-- 📫 How to reach me **bayu190903@gmail.com**
+## 💼 Available for Freelance
 
-- ⚡ Fun fact **I think I am funny**
+I'm open for freelance projects! Let's build something amazing together.
+
+- 📧 Email: bayu190903@gmail.com
+- 🌐 Portfolio: https://bayu-yusuf.vercel.app/
+- 💬 LinkedIn: (https://www.linkedin.com/in/muhamad-yusuf-a8613b214/)
+
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
