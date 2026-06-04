@@ -13,17 +13,14 @@
 
 - ⚙️ **Backend Development** — REST API, Microservices (Golang, Spring Boot, Node.js, PHP)
 - 🤖 **AI Integration** — Machine Learning, AI-powered features, Python
-- 🌐 **Web Development** — Full-stack web apps (Next.js, React, TypeScript)
+- 🌐 **Web Development** — Full-stack web apps (Next.js, React, TypeScript, Laravel)
 - 🛠️ **DevOps Basics** — Docker, Nginx, Deployment, Linux
 
 ---
 
 ## 🔥 Featured Projects
 
-- 🏘️ [Si-eRTe](https://github.com/mrbayss/Si-eRTe) — Sistem Informasi e-RT/RW untuk manajemen administrasi lingkungan berbasis web
-- 📦 [Project 2](link) — [Deskripsi singkat project — apa masalahnya, solusinya, tech stack]
-- 📦 [Project 3](link) — [Deskripsi singkat project — apa masalahnya, solusinya, tech stack]
-
+- 🏘️ [Si-eRTe](https://github.com/mrbayss/Si-eRTe) — School Information System for managing school administration
 ---
 
 ## 🛠️ Tech Stack
@@ -58,17 +55,27 @@
 
 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrbayss&show_icons=true&locale=en&layout=compact&theme=default" alt="mrbayss" /></p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrbayss&show_icons=true&locale=en&layout=compact&theme=default" alt="mrbayss" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mrbayss&show_icons=true&locale=en&theme=default" alt="mrbayss" />
+    </td>
+  </tr>
+</table>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrbayss&show_icons=true&locale=en&theme=default" alt="mrbayss" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrbayss&theme=default" alt="mrbayss" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrbayss&theme=default" alt="mrbayss" /></p>
 
 ───
 
 📌 Currently
 
-• 🔭 I'm currently working on Si-eRTe — Sistem Informasi e-RT/RW untuk manajemen administrasi lingkungan
+• 🔭 I'm currently working on Si-eRTe — School Information System for managing school administration
 • 🌱 I'm currently learning GoFiber, GORM, SpringBoot, NextJS
 • 💬 Ask me about Golang, Backend Architecture, AI Integration
 • ⚡ Fun fact: I think I am funny 😄
@@ -81,7 +88,7 @@ I'm open for freelance projects! Let's build something amazing together. 🚀
 
 • 📧 Email: bayu190903@gmail.com
 • 🌐 Portfolio: https://bayu-yusuf.vercel.app/
-• 💬 LinkedIn: linkedin.com/in/muhamad yusuf
+• 💬 LinkedIn: [linkedin.com/in/muhamad yusuf](https://www.linkedin.com/in/muhamad-yusuf-a8613b214/)
 
 ───
 
@@ -103,6 +110,7 @@ I'm open for freelance projects! Let's build something amazing together. 🚀
 
 ───
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mrbayss&theme=flat&no-frame=true&margin-w=15" alt="mrbayss" />
-</p>
+## 🏆 GitHub Trophies
+
+![mrbayss](https://github-profile-trophy.vercel.app/?username=mrbayss&theme=flat&no-frame=true&margin-w=15)
+
