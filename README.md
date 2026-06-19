@@ -93,7 +93,7 @@ I'm open for freelance projects! Let's build something amazing together. 🚀
 
 • 🌐 Portfolio: https://bayu-yusuf.vercel.app/
 
-• 💬 LinkedIn: [linkedin.com/in/muhamad_bayu yusuf]([https://www.linkedin.com/in/muhamad-yusuf-a8613b214/](https://www.linkedin.com/in/muhamad-bayu-yusuf-a8613b214/))
+• 💬 LinkedIn: https://www.linkedin.com/in/muhamad-bayu-yusuf-a8613b214/
 
 ───
 
