@@ -75,7 +75,7 @@
 
 📌 Currently
 
-• 🔭 I'm currently working on Si-eRTe — School Information System for managing school administration
+• 🔭 I'm currently working on Java-ecommerce-bayshop
 
 • 🌱 I'm currently learning GoFiber, GORM, SpringBoot, NextJS
 
@@ -93,7 +93,7 @@ I'm open for freelance projects! Let's build something amazing together. 🚀
 
 • 🌐 Portfolio: https://bayu-yusuf.vercel.app/
 
-• 💬 LinkedIn: [linkedin.com/in/muhamad yusuf](https://www.linkedin.com/in/muhamad-yusuf-a8613b214/)
+• 💬 LinkedIn: [linkedin.com/in/muhamad_bayu yusuf]([https://www.linkedin.com/in/muhamad-yusuf-a8613b214/](https://www.linkedin.com/in/muhamad-bayu-yusuf-a8613b214/))
 
 ───
 
@@ -112,10 +112,3 @@ I'm open for freelance projects! Let's build something amazing together. 🚀
 <a href="https://dribbble.com/mrbays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mrbays" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@bayuyusuf8028" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bayuyusuf8028" height="30" width="40" /></a>
 </p>
-
-───
-
-## 🏆 GitHub Trophies
-
-![mrbayss](https://github-profile-trophy.vercel.app/?username=mrbayss&theme=flat&no-frame=true&margin-w=15)
-
