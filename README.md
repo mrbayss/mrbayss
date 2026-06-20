@@ -20,7 +20,7 @@
 
 ## 🔥 Featured Projects
 
-- 🏘️ [Si-eRTe](https://github.com/mrbayss/Si-eRTe) — School Information System for managing school administration
+- 🏘️ [Java-Ecommerce-BayShop](https://github.com/mrbayss/java-ecommerce-bayshop) — Java Personal Ecommerce
 ---
 
 ## 🛠️ Tech Stack
